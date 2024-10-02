@@ -37,16 +37,16 @@
 </ul>
 
 <h2>Installation</h2>
-<pre><code>Clone the repository:</code></pre>
+<p>Clone the repository:</p>
 <pre><code>git clone https://github.com/Navartna/E-Commerce-API-Backend.git</code></pre>
 
-<pre><code>Navigate to the project directory:</code></pre>
+<p>Navigate to the project directory:</p>
 <pre><code>cd E-Commerce-API-Backend</code></pre>
 
-<pre><code>Install dependencies:</code></pre>
+<p>Install dependencies:</p>
 <pre><code>npm install</code></pre>
 
-<pre><code>Start the server:</code></pre>
+<p>Start the server:</p>
 <pre><code>npm start</code></pre>
 
 <h2>API Documentation</h2>
